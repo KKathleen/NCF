@@ -11,7 +11,7 @@ Based on the paper's result, the improvement of with pre-train over without pre-
 
 2.pytorch 0.4.0
 
-3.tensorboardX(mainly useful when you want to visulize the loss, https://github.com/lanpa/tensorboard-pytorch)
+3.tensorboardX (mainly useful when you want to visulize the loss, https://github.com/lanpa/tensorboard-pytorch)
 
 4.tensorflow 1.7
 
