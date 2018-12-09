@@ -3,6 +3,7 @@ from __future__ import absolute_import
 from __future__ import division
 
 import os, sys, time
+
 import numpy as np
 import tensorflow as tf 
 
